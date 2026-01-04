@@ -2,17 +2,16 @@
 
 A lightweight browser extension that helps you **track which videos you’ve watched in a YouTube playlist** using an interactive checklist directly on the YouTube page.
 
-Whether you’re following a course, a tutorial series, or a long playlist — this extension makes sure you never lose track.
+Whether you’re following a course, a tutorial series, or a long playlist, this extension makes sure you never lose track.
 
 ---
 
 ## ✨ Features
 
-- 📋 Interactive checklist for YouTube playlists  
-- 💾 Progress automatically saved using browser storage  
-- 🎯 Floating button UI on playlist pages  
-- 🌙 Dark mode support (matches system theme)  
-- 🔓 Fully open-source and customizable  
+- 📋 Interactive checklist for YouTube playlists
+- 💾 Progress automatically saved using browser storage
+- 🎯 Floating button UI on playlist pages 
+- 🔓 Fully open-source and customizable
 - 🌐 Works on **Firefox** and **Chromium-based browsers**
 
 ---
@@ -100,7 +99,6 @@ You can:
 - Add new features
 - Improve UI/UX
 - Optimize performance
-- Help prepare Chrome Web Store submission
 
 Just open a PR or issue.
 
